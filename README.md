@@ -1,2 +1,2 @@
-# Anket-Haz-rlama-Portal-
+# Anket-Hazırlama-Portalı-
 İnternet Programcılığı Projesi
